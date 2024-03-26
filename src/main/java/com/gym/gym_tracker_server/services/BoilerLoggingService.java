@@ -1,5 +1,4 @@
 package com.gym.gym_tracker_server.services;
-import com.gym.gym_tracker_server.entities.Boiler;
 import com.gym.gym_tracker_server.entities.BoilerLog;
 import com.gym.gym_tracker_server.repository.BoilerLogRepository;
 import org.springframework.beans.factory.annotation.Autowired;

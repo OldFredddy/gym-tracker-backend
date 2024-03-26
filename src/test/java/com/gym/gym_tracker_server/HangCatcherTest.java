@@ -1,7 +1,5 @@
 package com.gym.gym_tracker_server;
 
-import com.gym.gym_tracker_server.services.BoilersDataService;
-import com.gym.gym_tracker_server.utils.HangCatcher;
 import lombok.SneakyThrows;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
